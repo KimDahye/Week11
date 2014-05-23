@@ -1,0 +1,4 @@
+C:\Users\김다혜\Documents\Visual Studio 2010\Projects\Week11\SerializedStudent\bin\Release\SerializedStudent.exe
+C:\Users\김다혜\Documents\Visual Studio 2010\Projects\Week11\SerializedStudent\bin\Release\SerializedStudent.pdb
+C:\Users\김다혜\Documents\Visual Studio 2010\Projects\Week11\SerializedStudent\obj\x86\Release\SerializedStudent.exe
+C:\Users\김다혜\Documents\Visual Studio 2010\Projects\Week11\SerializedStudent\obj\x86\Release\SerializedStudent.pdb

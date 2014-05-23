@@ -1,0 +1,4 @@
+C:\Users\김다혜\Documents\Visual Studio 2010\Projects\Week11\TextPractice\bin\Debug\TextPractice.exe
+C:\Users\김다혜\Documents\Visual Studio 2010\Projects\Week11\TextPractice\bin\Debug\TextPractice.pdb
+C:\Users\김다혜\Documents\Visual Studio 2010\Projects\Week11\TextPractice\obj\x86\Debug\TextPractice.exe
+C:\Users\김다혜\Documents\Visual Studio 2010\Projects\Week11\TextPractice\obj\x86\Debug\TextPractice.pdb

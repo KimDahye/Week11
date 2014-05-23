@@ -1,0 +1,4 @@
+C:\Users\김다혜\Documents\Visual Studio 2010\Projects\Week11\BinaryFile\bin\Release\BinaryFile.exe
+C:\Users\김다혜\Documents\Visual Studio 2010\Projects\Week11\BinaryFile\bin\Release\BinaryFile.pdb
+C:\Users\김다혜\Documents\Visual Studio 2010\Projects\Week11\BinaryFile\obj\x86\Release\BinaryFile.exe
+C:\Users\김다혜\Documents\Visual Studio 2010\Projects\Week11\BinaryFile\obj\x86\Release\BinaryFile.pdb

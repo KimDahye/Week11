@@ -1,0 +1,7 @@
+C:\Users\김다혜\Documents\Visual Studio 2010\Projects\Week11\Lab3ListBoxGUI\obj\x86\Debug\Lab3ListBoxGUI.Properties.Resources.resources
+C:\Users\김다혜\Documents\Visual Studio 2010\Projects\Week11\Lab3ListBoxGUI\obj\x86\Debug\Lab3ListBoxGUI.csproj.GenerateResource.Cache
+C:\Users\김다혜\Documents\Visual Studio 2010\Projects\Week11\Lab3ListBoxGUI\bin\Debug\Lab3ListBoxGUI.exe
+C:\Users\김다혜\Documents\Visual Studio 2010\Projects\Week11\Lab3ListBoxGUI\bin\Debug\Lab3ListBoxGUI.pdb
+C:\Users\김다혜\Documents\Visual Studio 2010\Projects\Week11\Lab3ListBoxGUI\obj\x86\Debug\Lab3ListBoxGUI.exe
+C:\Users\김다혜\Documents\Visual Studio 2010\Projects\Week11\Lab3ListBoxGUI\obj\x86\Debug\Lab3ListBoxGUI.pdb
+C:\Users\김다혜\Documents\Visual Studio 2010\Projects\Week11\Lab3ListBoxGUI\obj\x86\Debug\Lab3ListBoxGUI.Form1.resources

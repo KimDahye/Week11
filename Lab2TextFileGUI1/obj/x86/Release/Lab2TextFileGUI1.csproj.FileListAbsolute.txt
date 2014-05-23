@@ -1,0 +1,7 @@
+C:\Users\김다혜\Documents\Visual Studio 2010\Projects\Week11\Lab2TextFileGUI1\bin\Release\Lab2TextFileGUI1.exe
+C:\Users\김다혜\Documents\Visual Studio 2010\Projects\Week11\Lab2TextFileGUI1\bin\Release\Lab2TextFileGUI1.pdb
+C:\Users\김다혜\Documents\Visual Studio 2010\Projects\Week11\Lab2TextFileGUI1\obj\x86\Release\Lab2TextFileGUI1.Form1.resources
+C:\Users\김다혜\Documents\Visual Studio 2010\Projects\Week11\Lab2TextFileGUI1\obj\x86\Release\Lab2TextFileGUI1.Properties.Resources.resources
+C:\Users\김다혜\Documents\Visual Studio 2010\Projects\Week11\Lab2TextFileGUI1\obj\x86\Release\Lab2TextFileGUI1.csproj.GenerateResource.Cache
+C:\Users\김다혜\Documents\Visual Studio 2010\Projects\Week11\Lab2TextFileGUI1\obj\x86\Release\Lab2TextFileGUI1.exe
+C:\Users\김다혜\Documents\Visual Studio 2010\Projects\Week11\Lab2TextFileGUI1\obj\x86\Release\Lab2TextFileGUI1.pdb
