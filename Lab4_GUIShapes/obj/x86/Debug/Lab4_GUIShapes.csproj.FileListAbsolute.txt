@@ -1,0 +1,9 @@
+C:\Users\김다혜\Documents\Visual Studio 2010\Projects\Week10\Lab4_GUIShapes\bin\Debug\Lab4_GUIShapes.exe
+C:\Users\김다혜\Documents\Visual Studio 2010\Projects\Week10\Lab4_GUIShapes\bin\Debug\Lab4_GUIShapes.pdb
+C:\Users\김다혜\Documents\Visual Studio 2010\Projects\Week10\Lab4_GUIShapes\obj\x86\Debug\Lab4_GUIShapes.Form1.resources
+C:\Users\김다혜\Documents\Visual Studio 2010\Projects\Week10\Lab4_GUIShapes\obj\x86\Debug\Lab4_GUIShapes.Properties.Resources.resources
+C:\Users\김다혜\Documents\Visual Studio 2010\Projects\Week10\Lab4_GUIShapes\obj\x86\Debug\Lab4_GUIShapes.csproj.GenerateResource.Cache
+C:\Users\김다혜\Documents\Visual Studio 2010\Projects\Week10\Lab4_GUIShapes\obj\x86\Debug\Lab4_GUIShapes.exe
+C:\Users\김다혜\Documents\Visual Studio 2010\Projects\Week10\Lab4_GUIShapes\obj\x86\Debug\Lab4_GUIShapes.pdb
+C:\Users\김다혜\Documents\Visual Studio 2010\Projects\Week11\Lab4_GUIShapes\obj\x86\Debug\Lab4_GUIShapes.exe
+C:\Users\김다혜\Documents\Visual Studio 2010\Projects\Week11\Lab4_GUIShapes\obj\x86\Debug\Lab4_GUIShapes.pdb

@@ -3,15 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual C# Express 2010
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextPractice", "TextPractice\TextPractice.csproj", "{66A88140-10B8-41F5-9D97-F71FDB227C53}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab1BinaryFile", "BinaryFile\Lab1BinaryFile.csproj", "{91F5EBBB-A385-45C5-AEF5-539BF7B70D46}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SerializedStudent", "SerializedStudent\SerializedStudent.csproj", "{D02FBB69-EC61-4B57-9753-AC44BBE576FF}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab2TextFileGUI1", "Lab2TextFileGUI1\Lab2TextFileGUI1.csproj", "{85070435-8FAE-47DD-A1CB-3F87703BDF6C}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab3ListBoxGUI", "Lab3ListBoxGUI\Lab3ListBoxGUI.csproj", "{2038BE03-CA99-4AAF-A5B2-152795ABE111}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab4_GUIShapes", "..\Week10\Lab4_GUIShapes\Lab4_GUIShapes.csproj", "{59002395-A841-47A3-8E1F-87E588419209}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab4_GUIShapes", "Lab4_GUIShapes\Lab4_GUIShapes.csproj", "{59002395-A841-47A3-8E1F-87E588419209}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab1BinaryFile", "Lab1BinaryFile\Lab1BinaryFile.csproj", "{91F5EBBB-A385-45C5-AEF5-539BF7B70D46}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -23,10 +23,6 @@ Global
 		{66A88140-10B8-41F5-9D97-F71FDB227C53}.Debug|x86.Build.0 = Debug|x86
 		{66A88140-10B8-41F5-9D97-F71FDB227C53}.Release|x86.ActiveCfg = Release|x86
 		{66A88140-10B8-41F5-9D97-F71FDB227C53}.Release|x86.Build.0 = Release|x86
-		{91F5EBBB-A385-45C5-AEF5-539BF7B70D46}.Debug|x86.ActiveCfg = Debug|x86
-		{91F5EBBB-A385-45C5-AEF5-539BF7B70D46}.Debug|x86.Build.0 = Debug|x86
-		{91F5EBBB-A385-45C5-AEF5-539BF7B70D46}.Release|x86.ActiveCfg = Release|x86
-		{91F5EBBB-A385-45C5-AEF5-539BF7B70D46}.Release|x86.Build.0 = Release|x86
 		{D02FBB69-EC61-4B57-9753-AC44BBE576FF}.Debug|x86.ActiveCfg = Debug|x86
 		{D02FBB69-EC61-4B57-9753-AC44BBE576FF}.Debug|x86.Build.0 = Debug|x86
 		{D02FBB69-EC61-4B57-9753-AC44BBE576FF}.Release|x86.ActiveCfg = Release|x86
@@ -43,6 +39,10 @@ Global
 		{59002395-A841-47A3-8E1F-87E588419209}.Debug|x86.Build.0 = Debug|x86
 		{59002395-A841-47A3-8E1F-87E588419209}.Release|x86.ActiveCfg = Release|x86
 		{59002395-A841-47A3-8E1F-87E588419209}.Release|x86.Build.0 = Release|x86
+		{91F5EBBB-A385-45C5-AEF5-539BF7B70D46}.Debug|x86.ActiveCfg = Debug|x86
+		{91F5EBBB-A385-45C5-AEF5-539BF7B70D46}.Debug|x86.Build.0 = Debug|x86
+		{91F5EBBB-A385-45C5-AEF5-539BF7B70D46}.Release|x86.ActiveCfg = Release|x86
+		{91F5EBBB-A385-45C5-AEF5-539BF7B70D46}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
